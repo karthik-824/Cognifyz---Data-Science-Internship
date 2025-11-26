@@ -64,8 +64,3 @@ To predict restaurant ratings, three regression models were evaluated. **Random 
 * **Geospatial Analysis:** GeoPandas, Shapely
 * **Machine Learning:** Scikit-learn (Linear Regression, Decision Tree, Random Forest)
 
-## 🚀 How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/karthik-824/Cognifyz---Data-Science-Internship.git](https://github.com/karthik-824/Cognifyz---Data-Science-Internship.git)
