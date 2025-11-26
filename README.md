@@ -65,7 +65,7 @@ To predict restaurant ratings, three regression models were evaluated. **Random 
 * **Machine Learning:** Scikit-learn (Linear Regression, Decision Tree, Random Forest)
 
 ##📢 Acknowledgments
- **[Cognifyz Technologies](https://cognifyz.com/)**
+* **[Cognifyz Technologies](https://cognifyz.com/)**
 
     
     
