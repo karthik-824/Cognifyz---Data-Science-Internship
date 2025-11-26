@@ -1,12 +1,12 @@
 # Cognifyz-Data-Science-Internship
-# 🍽️ Restaurant Data Analysis & Predictive Modeling
+#  Restaurant Data Analysis & Predictive Modeling
 
-## 📌 Project Overview
+##  Project Overview
 This repository contains the work completed during the Data Science Internship at **Cognifyz Technologies**. The project focuses on analyzing a restaurant dataset to extract meaningful insights, perform geospatial analysis, and build predictive models to estimate restaurant ratings.
 
 The project is divided into three distinct levels, progressing from basic data exploration to advanced machine learning techniques.
 
-## 📂 Project Structure
+##  Project Structure
 The analysis is split into three levels, each contained in its own Jupyter Notebook:
 
 ### Level 1: Data Exploration and Visualization
@@ -34,7 +34,7 @@ The analysis is split into three levels, each contained in its own Jupyter Noteb
     * **Algorithm Selection:** Comparing Linear Regression, Decision Tree, and Random Forest.
     * **Customer Preference:** Analyzing the relationship between votes, cuisines, and ratings.
 
-## 📊 Key Findings & Insights
+##  Key Findings & Insights
 
 ### 1. Geographical Insights
 * **Top Hubs:** New Delhi, Gurgaon, and Noida have the highest concentration of restaurants.
@@ -57,19 +57,19 @@ To predict restaurant ratings, three regression models were evaluated. **Random 
 | **Decision Tree** | ~0.20 | 0.90 |
 | **Random Forest** | **~0.13** | **0.94 (Best Fit)** |
 
-## 🛠️ Technologies Used
+##  Technologies Used
 * **Language:** Python
 * **Data Manipulation:** Pandas, NumPy
 * **Visualization:** Matplotlib, Seaborn
 * **Geospatial Analysis:** GeoPandas, Shapely
 * **Machine Learning:** Scikit-learn (Linear Regression, Decision Tree, Random Forest)
 
-##📢 Acknowledgments
+## Acknowledgments
 * **[Cognifyz Technologies](https://cognifyz.com/)**
 
     
     
-## 👤 Author
+##  Author
  **[Karthik Kuru](https://www.linkedin.com/in/karthikkuru/)**
 
 
